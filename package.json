@@ -1,0 +1,29 @@
+{
+  "name": "robot-apocalypse",
+  "version": "0.1.0",
+  "description": "Install robots.txt files on every site on a staging server, taking into account both PHP and node/stagecoach sites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/punkave/robot-apocalypse"
+  },
+  "keywords": [
+    "robots.txt",
+    "apache",
+    "nginx",
+    "node",
+    "stagecoach"
+  ],
+  "author": "P'unk Avenue LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/punkave/robot-apocalypse/issues"
+  },
+  "homepage": "https://github.com/punkave/robot-apocalypse",
+  "dependencies": {
+    "shelljs": "^0.5.3"
+  }
+}
