@@ -1,6 +1,6 @@
 {
   "name": "robot-apocalypse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Install robots.txt files on every site on a staging server, taking into account both PHP and node/stagecoach sites",
   "main": "app.js",
   "scripts": {
