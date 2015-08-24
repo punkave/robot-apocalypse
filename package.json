@@ -26,5 +26,8 @@
   "dependencies": {
     "glob": "^5.0.14",
     "shelljs": "^0.5.3"
+  },
+  "bin": {
+    "robot-apocalypse": "./bin/robot-apocalypse"
   }
 }
