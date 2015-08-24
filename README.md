@@ -17,3 +17,9 @@ robot-apocalypse
 This obviously does not instantly purge results from Google. It takes time for search engines to re-crawl a site. Only well-behaved search engine spiders pay attention to `robots.txt` files.
 
 If what you want is security, this is the wrong tool for your needs. You should set a password for access to your content, or lock it down by other means.
+
+If you don't want a firm "go away, no indexing" rule for every site... don't run this.
+
+## Options
+
+Add `--verbose` to print the path to each folder in which a `robots.txt` file is created.

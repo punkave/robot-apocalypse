@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/punkave/robot-apocalypse",
   "dependencies": {
+    "boring": "^0.1.0",
     "glob": "^5.0.14",
     "shelljs": "^0.5.3"
   },
