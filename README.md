@@ -6,7 +6,7 @@ We use this on staging servers where a more complete lockdown, such as restricti
 
 ## Usage
 
-Run it as root:
+Run it as a user with appropriate privileges to create `robots.txt` files in the above-mentioned places:
 
 ```
 robot-apocalypse
